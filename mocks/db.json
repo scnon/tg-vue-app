@@ -1,0 +1,10 @@
+{
+  "shop": [
+    {
+      "id": 1,
+      "name": "Shop 1",
+      "address": "Address 1",
+      "phone": "1234567890"
+    }
+  ]
+}
