@@ -14,18 +14,12 @@ declare module 'vue' {
     ShopItem: typeof import('./src/components/ShopItem.vue')['default']
     ShopMenu: typeof import('./src/components/ShopMenu.vue')['default']
     Stepper: typeof import('./src/components/Stepper.vue')['default']
-    TGrid: typeof import('tdesign-mobile-vue')['Grid']
-    TGridItem: typeof import('tdesign-mobile-vue')['GridItem']
-    TNavbar: typeof import('tdesign-mobile-vue')['Navbar']
     TPopup: typeof import('tdesign-mobile-vue')['Popup']
     TRadio: typeof import('tdesign-mobile-vue')['Radio']
     TRadioGroup: typeof import('tdesign-mobile-vue')['RadioGroup']
     TSideBar: typeof import('tdesign-mobile-vue')['SideBar']
     TSideBarItem: typeof import('tdesign-mobile-vue')['SideBarItem']
-    TStepper: typeof import('tdesign-mobile-vue')['Stepper']
     TSwiper: typeof import('tdesign-mobile-vue')['Swiper']
     TSwiperItem: typeof import('tdesign-mobile-vue')['SwiperItem']
-    TTabPanel: typeof import('tdesign-mobile-vue')['TabPanel']
-    TTabs: typeof import('tdesign-mobile-vue')['Tabs']
   }
 }
